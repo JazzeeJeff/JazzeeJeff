@@ -13,7 +13,7 @@
 
 ### About Me :
 
-- Im a recent university MSc computing from Manchester Metropolitan.
+- Im a recent university graduate in MSc computing from Manchester Metropolitan.
 
 - Exploring full time oportunities and contracts. 
 
