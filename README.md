@@ -3,7 +3,7 @@
     Hey, I'm Jeff
   </h1>
   <div id="badges">
-    <a href="www.linkedin.com/in/jeff-merlehan">
+    <a href="https://www.linkedin.com/in/jeff-merlehan">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -19,7 +19,7 @@
 
 - In my free time, I like to keep fit, cook, read, and travel.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jeff-merlehan) ,  jeffmerlehan@yahoo.co.uk
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-merlehan) ,  jeffmerlehan@yahoo.co.uk
 
 
 I am looking for oportunities in 
