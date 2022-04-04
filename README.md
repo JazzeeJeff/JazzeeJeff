@@ -28,7 +28,7 @@ I am looking for oportunities in
  
 - Creative (film, video game)
  
-- Education
+- Health & Education
  
 ⚡ but that is not a requirement!
 
