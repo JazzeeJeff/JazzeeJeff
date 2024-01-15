@@ -13,7 +13,7 @@
 
 ### About Me :
 
-- Im a recent university graduate in MSc computing from Manchester Metropolitan.
+- Im a Full Stack Software Engineer working in the health and wellness industry.
 
 - Exploring full time oportunities and contracts. 
 
